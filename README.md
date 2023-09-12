@@ -93,8 +93,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Compass](https://www.compass.com/careers/) | New York, NY |
 | [CoreOS](https://coreos.com/careers/) | Berlin, DE; New York, NY; San Francisco, CA; |
 | [CornerStone OnDemand](https://www.cornerstoneondemand.com/careers) | Santa Monica, CA |
---------------------------------START from here
-| [Couchbase](https://www.couchbase.com/careers) | Mountain View, CA |
+|--------------------------------START from here [Couchbase](https://www.couchbase.com/careers) | Mountain View, CA |
 | [Couchsurfing](http://www.couchsurfing.com/about/jobs/) | San Francisco, CA |
 | [Counsyl](https://www.counsyl.com/careers/) | San Francisco, CA |
 | [Coursera](https://about.coursera.org/careers) | Mountain View, CA |
