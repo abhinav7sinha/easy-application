@@ -93,7 +93,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Compass](https://www.compass.com/careers/) | New York, NY |
 | [CoreOS](https://coreos.com/careers/) | Berlin, DE; New York, NY; San Francisco, CA; |
 | [CornerStone OnDemand](https://www.cornerstoneondemand.com/careers) | Santa Monica, CA |
-|--------------------------------START from here [Couchbase](https://www.couchbase.com/careers) | Mountain View, CA |
+| [Couchbase](https://www.couchbase.com/careers) | Mountain View, CA |
 | [Couchsurfing](http://www.couchsurfing.com/about/jobs/) | San Francisco, CA |
 | [Counsyl](https://www.counsyl.com/careers/) | San Francisco, CA |
 | [Coursera](https://about.coursera.org/careers) | Mountain View, CA |
@@ -121,7 +121,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Duolingo](https://www.duolingo.com/jobs) | Pittsburgh, PA |
 | [EagleView](https://www.eagleview.com/careers) | Bothell, WA |
 | [Edmodo](https://www.edmodo.com/careers) | San Mateo, CA |
-| START FROM HERE ----> [Edmunds](https://www.edmunds.com/careers/) | Santa Monica, CA |
+| --------------------------------START from here [Edmunds](https://www.edmunds.com/careers/) | Santa Monica, CA |
 | [EdX](https://www.edx.org/careers) | Cambridge, MA |
 | [eHarmony](http://www.eharmony.com/about/careers/) | Los Angeles, CA |
 | [Elasticsearch](https://www.elastic.co/about/careers) | Mountain View, CA |
